@@ -7,5 +7,8 @@ interface Task {
 
 let tasks: Task[] = [];
 
+const TasksList: () => void = () => {
+  console.log(tasks);
+};
 
-
+TasksList();
