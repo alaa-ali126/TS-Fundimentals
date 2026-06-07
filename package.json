@@ -1,0 +1,25 @@
+{
+  "name": "ts-fundimentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaa-ali126/TS-Fundimentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alaa-ali126/TS-Fundimentals/issues"
+  },
+  "homepage": "https://github.com/alaa-ali126/TS-Fundimentals#readme"
+}
